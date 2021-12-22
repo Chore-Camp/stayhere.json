@@ -1,0 +1,15 @@
+{
+  "name": "stayhere.json",
+  "version": "1.0.0",
+  "description": "Local JSON Key-V based database",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {},
+  "author": "san4ouZ",
+  "license": "MIT",
+  "dependencies": {
+    "@discordoo/collection": "^1.0.12",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
